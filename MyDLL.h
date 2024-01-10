@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <windows.h>
 
 #ifdef MYDLL_EXPORTS
 #define MYDLL_API __declspec(dllexport)
